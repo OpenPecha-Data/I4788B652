@@ -1,0 +1,115 @@
+id: 22cc2177523d42d595911baf5bf2bc3b
+annotation_type: index
+revision: '00001'
+annotations:
+  a3d7cbfe01ad484d8e6760c0917086f2:
+    base: 36DD.txt
+    Chapters:
+    - title: 1. Nidāna
+      span:
+        start: 0
+        end: 31537
+    - title: 2. Upāyakauśalya
+      span:
+        start: 31538
+        end: 64132
+    - title: 3. Aupamya
+      span:
+        start: 64133
+        end: 105379
+    - title: 4. Adhimukti
+      span:
+        start: 105380
+        end: 127409
+    - title: 5. Oṣadhī
+      span:
+        start: 127410
+        end: 149872
+    - title: 6. Vyākaraṇa
+      span:
+        start: 149873
+        end: 161394
+    - title: 7. Pūrvayoga
+      span:
+        start: 161395
+        end: 206668
+    - title: 8. Pañcabhikṣuśatavyākaraṇa
+      span:
+        start: 206669
+        end: 222023
+    - title: 9. Ānandādivyākaraṇa
+      span:
+        start: 222024
+        end: 230927
+    - title: 10. Dharmabhāṇaka
+      span:
+        start: 230928
+        end: 245609
+    - title: 11. Stūpasaṃdarśana
+      span:
+        start: 245610
+        end: 276365
+    - title: 12. Utsāha
+      span:
+        start: 276366
+        end: 283697
+    - title: 13. Sukhavihāra
+      span:
+        start: 283698
+        end: 304434
+    - title: 14. Bodhisattvapṛthivīvirasamudgama
+      span:
+        start: 304435
+        end: 324328
+    - title: 15. Tathāgatāyuṣpramāṇa
+      span:
+        start: 324329
+        end: 338088
+    - title: 16. Puṇyaparyāya
+      span:
+        start: 338089
+        end: 355208
+    - title: 17. Anumodanāpuṇyanirdeśa
+      span:
+        start: 355209
+        end: 364537
+    - title: 18. Dharmabhāṇakānuśaṃsā
+      span:
+        start: 364538
+        end: 385308
+    - title: 19. Sadāparibhūta
+      span:
+        start: 385309
+        end: 396794
+    - title: 20. Tathāgataddharyabhisaṃskāra
+      span:
+        start: 396795
+        end: 405414
+    - title: 21. Dhāraṇī
+      span:
+        start: 405415
+        end: 412445
+    - title: 22. Bhaiṣajyarājapūrvayoga
+      span:
+        start: 412446
+        end: 434301
+    - title: 23. Gadgadasvara
+      span:
+        start: 434302
+        end: 450517
+    - title: 24. Samantamukha
+      span:
+        start: 450518
+        end: 464045
+    - title: 25. Śubhavyūharājapūrvayoga
+      span:
+        start: 464046
+        end: 478932
+    - title: 26. Samantabhadrotsāhana
+      span:
+        start: 478933
+        end: 490451
+    - title: 27. Anuparīndanā
+      span:
+        start: 490452
+        end: 493736

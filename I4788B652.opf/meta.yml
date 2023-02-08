@@ -1,0 +1,16 @@
+id: I4788B652
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:22:33.681499
+last_modified: 2023-02-08 15:22:33.681680
+source_metadata:
+  title: Saddharmapuṇḍarīka
+  language: sa
+bases:
+  36DD:
+    base_file: 36DD.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
